@@ -44,7 +44,7 @@
   "devDependencies": {
     "mocha": "~1.7.3",
     "ronn": "~0.3.8",
-    "grunt": "~0.4.0rc1"
+    "grunt": "git://github.com/n1k/grunt.git#a31764541a978d1b7623be59122ef64c71c22952"
   },
   "engines": {
     "node": ">=0.8.0"
