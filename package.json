@@ -31,7 +31,7 @@
     "manpages": "./scripts/docs-build"
   },
   "dependencies": {
-    "yeoman-generators": "http://github.com/yeoman/generators/archive/e47bf1d6c8.tar.gz",
+    "yeoman-generators": "git://github.com/n1k/generators.git#cd429d4d2dc3d3a5357c0f8c7ca77ffb1fab45fc",
     "bower": "~0.6.6",
     "colors": "~0.6.0",
     "nopt": "~2.0.0",
